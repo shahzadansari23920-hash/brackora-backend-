@@ -1,0 +1,6 @@
+{
+  "name": "BRACKORA - Tournament Earning App",
+  "description": "Play. Compete. Earn. The complete esports tournament platform for gamers and organizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
